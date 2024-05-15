@@ -4,10 +4,6 @@
 </p>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=HangyuYe&theme=redical">
-</p>
-
-<p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=HangyuYe&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 <!--
