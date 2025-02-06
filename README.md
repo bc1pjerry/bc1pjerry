@@ -1,22 +1,28 @@
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=bc1pjerry&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bc1pjerry&theme=radical">
-</p>
-<p align = "center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=bc1pjerry&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p>
-<!--
-**HangyuYe/HangyuYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Config: &hide=contribs -->
+  <picture decoding="async" loading="lazy">
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=bc1pjerry&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=FFFFFF&text_color=444E59&icon_color=2f81f7"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=bc1pjerry&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=FFFFFF&icon_color=2f81f7"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bc1pjerry&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=FFFFFF&text_color=444E59&icon_color=2f81f7" />
+  </picture>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Config: &hide=CSS -->
+  <picture decoding="async" loading="lazy">
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bc1pjerry&layout=compact&hide_border=true&hide_title=false&hide=CSS&bg_color=FFFFFF&text_color=444E59&icon_color=2f81f7"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bc1pjerry&layout=compact&hide_border=true&hide_title=false&hide=CSS&bg_color=0D1117&text_color=FFFFFF&icon_color=2f81f7"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bc1pjerry&layout=compact&hide_border=true&hide_title=false&hide=CSS&bg_color=FFFFFF&text_color=444E59&icon_color=2f81f7" />
+  </picture>
+</a>
