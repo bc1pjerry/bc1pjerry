@@ -1,28 +1,42 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Config: &hide=contribs -->
-  <picture decoding="async" loading="lazy">
-    <source
-      srcset="https://github-readme-stats-eta-six-vmts0gfqlt.vercel.app/api?username=bc1pjerry&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=FFFFFF&text_color=444E59&icon_color=2f81f7"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <source
-      srcset="https://github-readme-stats-eta-six-vmts0gfqlt.vercel.app/api?username=bc1pjerry&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&text_color=FFFFFF&icon_color=2f81f7"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img align="center" src="https://github-readme-stats-eta-six-vmts0gfqlt.vercel.app/api?username=bc1pjerry&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=FFFFFF&text_color=444E59&icon_color=2f81f7" />
-  </picture>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Config: &hide=CSS -->
-  <picture decoding="async" loading="lazy">
-    <source
-      srcset="https://github-readme-stats-eta-six-vmts0gfqlt.vercel.app/api/top-langs/?username=bc1pjerry&layout=compact&hide_border=true&hide_title=false&hide=CSS&bg_color=FFFFFF&text_color=444E59&icon_color=2f81f7"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <source
-      srcset="https://github-readme-stats-eta-six-vmts0gfqlt.vercel.app/api/top-langs/?username=bc1pjerry&layout=compact&hide_border=true&hide_title=false&hide=CSS&bg_color=0D1117&text_color=FFFFFF&icon_color=2f81f7"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img align="center" src="https://github-readme-stats-eta-six-vmts0gfqlt.vercel.app/api/top-langs/?username=bc1pjerry&layout=compact&hide_border=true&hide_title=false&hide=CSS&bg_color=FFFFFF&text_color=444E59&icon_color=2f81f7" />
-  </picture>
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-readme-stats-eta-six-vmts0gfqlt.vercel.app/api?username=bc1pjerry&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;bg_color=FFFFFF&amp;text_color=444E59&amp;icon_color=2f81f7"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <source
+        srcset="https://github-readme-stats-eta-six-vmts0gfqlt.vercel.app/api?username=bc1pjerry&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;bg_color=0D1117&amp;text_color=FFFFFF&amp;icon_color=2f81f7"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img
+        align="center"
+        loading="lazy"
+        decoding="async"
+        height="195"
+        alt="bc1pjerry GitHub stats"
+        src="https://github-readme-stats-eta-six-vmts0gfqlt.vercel.app/api?username=bc1pjerry&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;bg_color=FFFFFF&amp;text_color=444E59&amp;icon_color=2f81f7"
+      />
+    </picture>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-readme-stats-eta-six-vmts0gfqlt.vercel.app/api/top-langs/?username=bc1pjerry&amp;layout=compact&amp;card_width=445&amp;hide_border=true&amp;hide_title=false&amp;hide=css&amp;bg_color=FFFFFF&amp;text_color=444E59&amp;icon_color=2f81f7"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <source
+        srcset="https://github-readme-stats-eta-six-vmts0gfqlt.vercel.app/api/top-langs/?username=bc1pjerry&amp;layout=compact&amp;card_width=445&amp;hide_border=true&amp;hide_title=false&amp;hide=css&amp;bg_color=0D1117&amp;text_color=FFFFFF&amp;icon_color=2f81f7"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img
+        align="center"
+        loading="lazy"
+        decoding="async"
+        height="195"
+        alt="bc1pjerry most used languages"
+        src="https://github-readme-stats-eta-six-vmts0gfqlt.vercel.app/api/top-langs/?username=bc1pjerry&amp;layout=compact&amp;card_width=445&amp;hide_border=true&amp;hide_title=false&amp;hide=css&amp;bg_color=FFFFFF&amp;text_color=444E59&amp;icon_color=2f81f7"
+      />
+    </picture>
+  </a>
+</p>
